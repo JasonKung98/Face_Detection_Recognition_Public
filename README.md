@@ -1,4 +1,4 @@
-Reference website: https://tutorial.cytron.io/2020/11/13/face-recognition-using-opencv-on-raspberry-pi-400/
+Reference website: https://tutorial.cytron.io/2020/11/13/face-recognition-using-opencv-on-raspberry-pi-400/ /n
 You may find more OpenCV source files from Github: https://github.com/opencv/opencv
 
 Follow these steps to build your own face detection model:
